@@ -1,0 +1,7 @@
+dash==2.17.1
+matplotlib==3.7.5
+numpy==1.24.4
+pandas==2.0.3
+scikit_learn==1.5.1
+gunicorn
+dash-tools
